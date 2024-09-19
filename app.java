@@ -1,7 +1,0 @@
-
-/**
- * app
- */
-public class app {
-
-}
